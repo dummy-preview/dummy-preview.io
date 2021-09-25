@@ -2562,17 +2562,17 @@ footer {
     height: 150px;
 }
 
-.logo1 {
+.logo-1 {
     width: 62px;
     margin-right: 20px;
 }
 
-.logo2 {
+.logo-2 {
     width: 91px;
     margin-right: 20px;
 }
 
-.logo3 {
+.logo-3 {
     width: 88px;
 }
 
@@ -4125,13 +4125,13 @@ input[type=file] {
     .obj5 img {
         width: 100px;
     }
-    .logo1 {
+    .logo-1 {
         width: 45px;
     }
-    .logo2 {
+    .logo-2 {
         width: 72px;
     }
-    .logo3 {
+    .logo-3 {
         width: 70px;
     }
     .footer__logo {
