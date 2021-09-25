@@ -4172,9 +4172,14 @@ input[type=file] {
         line-height: 26px;
     }
     .card__text2 p {
-        font-size: 14px;
+        font-size: 13px;
         line-height: 16px;
-        padding: 16px 14px;
+        padding: 16px 10px;
+    }
+    .card__text2 {
+        height: 77px;
+        display: flex;
+        align-items: center;
     }
     .tema__obj2 {
         position: absolute;
