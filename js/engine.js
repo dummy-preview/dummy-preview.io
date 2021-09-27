@@ -32,10 +32,6 @@ $(document).ready(function() {
     $("#close7").click(function() {
         $("body.menu-active").removeClass("menu-active");
     });
-    $("#close8").click(function() {
-        $("body.menu-active").removeClass("menu-active");
-    });
-
 
     function toggleBodyClass(className) {
         document.body.classList.toggle(className);
