@@ -37,26 +37,6 @@ $(document).ready(function() {
         document.body.classList.toggle(className);
     }
 
-    // nav fixed
-    $(window).scroll(function() {
-        var scroll = $(window).scrollTop();
-        if (scroll >= 300) {
-            $(".header").addClass("fixshow");
-            $(".home__content").addClass("spacetop");
-        } else {
-            $(".header").removeClass("fixshow");
-            $(".home__content").removeClass("spacetop");
-        }
-    });
-
-    $('.icon-sosmed').click(function() {
-        if ($('.social').hasClass('social-show')) {
-            $('.social').removeClass('social-show');
-        } else {
-            $('.social').addClass('social-show');
-        }
-    });
-
     // s backtotop
     var toggleHeight = $(window).outerHeight() * 0.5;
 
