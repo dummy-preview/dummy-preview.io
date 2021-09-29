@@ -4620,6 +4620,9 @@ input[type=file] {
         top: 10%;
         right: 2%;
     }
+    .cardPeserta__text {
+        height: 112px;
+    }
 }
 
 @media (max-width:320px) {
