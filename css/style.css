@@ -2241,10 +2241,9 @@ ul.timeline>.fisrt:before {
 }
 
 .cardPeserta {
-    height: 500px;
+    height: auto;
     width: 400px;
     border-radius: 20px;
-    background: #ffffff;
     position: relative;
     margin-bottom: 20px;
 }
@@ -2254,7 +2253,7 @@ ul.timeline>.fisrt:before {
 }
 
 .cardPeserta img {
-    border-radius: 8px 8px 0px 0px;
+    border-radius: 8px ;
 }
 .cardPeserta__text{
     position: absolute;
@@ -2275,8 +2274,8 @@ ul.timeline>.fisrt:before {
 .slide1 {
     position: relative;
     width: 100%;
-    margin-top: 50px;
-    height: 550px;
+    margin-top: 20px;
+    height: 483px;
 }
 
 .swiper-container>.swiper-slide__content {
@@ -2285,7 +2284,7 @@ ul.timeline>.fisrt:before {
 }
 
 .swiper-slide.slidearticle {
-    height: 521px;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -4010,24 +4009,15 @@ input[type=file] {
     .title {
         font-size: 28px;
     }
-    /* .cardPeserta {
-        height: 425px;
-        width: 240px;
-    } */
     .home__title--2 {
         width: 655px;
     }
     .home__title--1 {
         width: 475px;
     }
-    .cardPeserta {
-        height: 400px;
-    }
     .slide1 {
-        height: 440px;
-    }
-    .swiper-slide.slidearticle {
-        height: 420px;
+        height: 320px;
+        margin-top: 25px;
     }
     .lokasi__left,
     .lokasi__right {
@@ -4164,11 +4154,9 @@ input[type=file] {
     }
     .slide1,
     .slide3 {
-        height: 505px;
+        height: 375px;
     }
-    .cardPeserta img {
-        border-radius: 20px 20px 0px 0px;
-    }
+   
     .obj3 img {
         width: 135px;
     }
