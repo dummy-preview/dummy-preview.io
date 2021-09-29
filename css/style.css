@@ -4021,13 +4021,13 @@ input[type=file] {
         width: 475px;
     }
     .cardPeserta {
-        height: 290px;
+        height: 400px;
     }
     .slide1 {
-        height: 350px;
+        height: 440px;
     }
     .swiper-slide.slidearticle {
-        height: 320px;
+        height: 420px;
     }
     .lokasi__left,
     .lokasi__right {
@@ -4088,6 +4088,11 @@ input[type=file] {
     }
     .indikator__obj2 img {
         width: 130px;
+    }
+    .cardPeserta__text {
+        height: 150px;
+        font-size: 12px;
+        line-height: 15px;
     }
 }
 
@@ -4152,32 +4157,18 @@ input[type=file] {
     }
     .cardPeserta {
         width: 100%;
-        height: 305px;
+        height: 425px;
     }
     .swiper-slide.slidearticle {
-        height: 425px;
+        height: 525px;
     }
     .slide1,
     .slide3 {
-        height: 455px;
+        height: 505px;
     }
-    /* ul.timeline>li:before {
-        width: 30px;
-        height: 30px;
+    .cardPeserta img {
+        border-radius: 20px 20px 0px 0px;
     }
-    ul.timeline>.fisrt:before {
-        width: 30px;
-        height: 30px;
-    }
-    ul.timeline:before {
-        left: 23px;
-        width: 3px;
-        height: 87%;
-    }
-    ul.timeline>li {
-        margin: 10px 0;
-        padding-left: 50px;
-    } */
     .obj3 img {
         width: 135px;
     }
