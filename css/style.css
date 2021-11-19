@@ -1145,6 +1145,22 @@ li.menu-item.current-menu-item {
     position: relative;
 }
 
+.icon1 img {
+    width: 182px;
+}
+
+.icon2 img {
+    width: 143px;
+}
+
+.icon3 img {
+    width: 158px;
+}
+
+.hadiah__item--piala {
+    text-align: center;
+}
+
 .hadiah__obj1 {
     position: absolute;
     bottom: -190%;
@@ -1198,7 +1214,8 @@ li.menu-item.current-menu-item {
 }
 
 .hadiah__item--piala img {
-    width: 100%;
+    /* width: 100%; */
+    width: 195px;
     padding: 0px 3px;
 }
 
@@ -1491,33 +1508,6 @@ li.menu-item.current-menu-item {
 
 .icon__right {
     width: 50%;
-}
-
-.icon-pdf {
-    display: flex;
-    margin-top: 10px;
-}
-
-.icon__pdf img {
-    width: 16px;
-}
-
-.icon__right__item {
-    display: flex;
-    justify-content: end;
-}
-
-.icon__left__item {
-    display: flex;
-    justify-content: start;
-}
-
-.icon-more {
-    width: 3px;
-}
-
-.icon-more img {
-    width: 100%;
 }
 
 .upload__size {
