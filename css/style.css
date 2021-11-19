@@ -1743,6 +1743,8 @@ footer {
     -webkit-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
     margin-top: 5px;
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .form-group input[type=email]:focus,
@@ -1796,7 +1798,7 @@ footer {
 .select-selected {
     background: #fff;
     font-size: 14px;
-    color: #8b8b8b
+    /* color: #8b8b8b */
 }
 
 .select-selected:after {
@@ -1817,7 +1819,7 @@ footer {
 
 .select-items div,
 .select-selected {
-    color: #000000;
+    /* color: #B1B1B1; */
     padding: 17px 15px;
     border: 1px solid #CCCCCC;
     border-radius: 8px;
