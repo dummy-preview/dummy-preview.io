@@ -298,35 +298,6 @@ li.menu-item.current-menu-item {
     transform: scale(.97);
 }
 
-
-/* .change-language select {
-    border: none;
-    background: transparent;
-    padding: 10px 5px;
-    color: #ffffff;
-    font-size: 18px;
-    line-height: 24px;
-}
-
-.change-language select option {
-    color: #000;
-}
-
-.icon-flag {
-    position: relative;
-}
-
-.icon-flag:before {
-    content: '';
-    background: #000;
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 1000;
-} */
-
 .dropdown {
     width: 165px;
     position: relative;
@@ -824,7 +795,6 @@ li.menu-item.current-menu-item {
 .swiper-container {
     width: 100%;
     height: 750px;
-    /* margin-top: 28px; */
 }
 
 .swiper-slide {
@@ -1232,7 +1202,7 @@ li.menu-item.current-menu-item {
 .hadiah__item--nominal {
     font-weight: 500;
     font-size: 18px;
-    line-height: 150%;
+    line-height: 124%;
     text-align: center;
     color: #666666;
 }
