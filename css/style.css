@@ -1585,10 +1585,25 @@ footer {
     color: #fec65c
 }
 
-.footer-logo img {
-    width: 200px;
+.footer-logo {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* .footer-logo img {
+
     text-align: center;
-    padding-top: 10px
+
+} */
+
+.kgmedia {
+    width: 196px;
+}
+
+.tribun-network {
+    width: 217px;
+    padding-top: 5px;
 }
 
 .m-backtotop {
@@ -2385,7 +2400,7 @@ ul li {
         margin-bottom: 15px
     }
     .footer-logo img {
-        width: 150px
+        width: 133px
     }
     .detail__info__video iframe {
         height: 215px
